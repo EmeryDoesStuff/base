@@ -28,3 +28,19 @@ h1 {
 .w3-content {
     margin-bottom:128px
 }
+.next-button {
+    float: right;
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+    width: 80px;
+    background-color: #163dfe;
+}
+.back-button {
+    float: left;
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+    width: 80px;
+    background-color: #163dfe;
+}
